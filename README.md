@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction Web App
+#  Heart Disease Prediction Web App
 
 This is a simple machine learning web application built with **Python**, **Scikit-learn**, and **Streamlit** that predicts whether a person has heart disease based on medical input parameters.
 
@@ -12,4 +12,10 @@ This is a simple machine learning web application built with **Python**, **Sciki
 ---
 
 ## 📂 Project Structure
+├── app.py # Main Streamlit app file
+├── final_model.ipynb # Jupyter Notebook for training and saving the model
+├── final_model.pkl # Trained machine learning model (pickle file)
+├── heart.csv # Dataset used for training
+├── requirements.txt # Python dependencies
+
 
